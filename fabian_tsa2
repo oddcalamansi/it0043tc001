@@ -50,53 +50,53 @@
  
     </tr>
     <tr>
-      <th>1</th>
-      <td>Generation 1</td>
-      <td>Wesley</td>
+      <th>10010</th>
+      <td>Generation Z</td>
+      <td><div style="text-align: center;">Wesley</td>
       <td><img src="" alt=""></td>
       <td colspan="2" bgcolor="brown"> <div style="text-align: center; color: white">Land</td>
-      <td>Maingay</td>
-      <td>Tahimik</td>
-      <td>Wez</td>
+      <td><div style="text-align: center;">Maingay</td>
+      <td><div style="text-align: center;">Tahimik</td>
+      <td><div style="text-align: center;">Wez</td>
       <td>12-31-1995</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>0906</th>
       <td>Generation 9</td>
-      <td>Floragato</td>
+      <td><div style="text-align: center;">Floragato</td>
       <td><img src="https://archives.bulbagarden.net/media/upload/thumb/e/e2/0906Sprigatito.png/70px-0906Sprigatito.png" alt=</td>
       <td colspan="2" bgcolor="green"> <div style="text-align: center; color: white">Grass</td>
-      <td>Sprigatito</td></div>
+      <td><div style="text-align: center;">Sprigatito</td></div>
       <td><div style="text-align: center;">-</td></div>
-      <td>AsongBerde</td>
+      <td><div style="text-align: center;">AsongBerde</td>
       <td>05-12-2021</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>0891</th>
       <td>Generation 8</td>
-      <td>Kubfu</td>
+      <td><div style="text-align: center;">Kubfu</td>
       <td><img src="https://archives.bulbagarden.net/media/upload/thumb/1/14/0891Kubfu.png/70px-0891Kubfu.png" alt=""></td>
       <td colspan="2" bgcolor="orange"><div style="text-align: center; color: white"> Fighting</td>
-      <td>Bulbasaur</td>
-      <td>Venusaur</td>
-      <td>SigaSigaan</td>
+      <td><div style="text-align: center;">Bulbasaur</td>
+      <td><div style="text-align: center;">Venusaur</td>
+      <td><div style="text-align: center;">SigaSigaan</td>
       <td>12-4-2021</td>
     </tr>
     <tr>
-        <th>4</th>
+        <th>0895</th>
         <td>Generation 8</td>
-        <td>Regidrago</td>
+        <td><div style="text-align: center;">Regidrago</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/7/79/0895Regidrago.png/70px-0895Regidrago.png" alt=""></td>
         <td colspan="2" bgcolor="blue"><div style="text-align: center; color: white">Dragon</td>
         <td><div style="text-align: center;">-</td></td>
         <td><div style="text-align: center;">-</td></div>
-        <td>SharkTeeth</td>
+        <td><div style="text-align: center;">SharkTeeth</td>
         <td>01-19-2013</td>
       </tr>
       <tr>
-        <th>5</th>
+        <th>0803</th>
         <td>Generation 7</td>
-        <td>Poipole</td>
+        <td><div style="text-align: center;">Poipole</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/2/21/0803Poipole.png/70px-0803Poipole.png" alt=""></td>
         <td colspan="2" bgcolor="purple"><div style="text-align: center; color: white">Poison</td>
         <td><div style="text-align: center;">-</td></td>
@@ -105,63 +105,63 @@
         <td>04-21-1898</td>
       </tr>
       <tr>
-        <th>6</th>
+        <th>0922</th>
         <td>Generation 9</td>
-        <td>Pawmo</td>
+        <td><div style="text-align: center;">Pawmo</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/0922Pawmo.png/70px-0922Pawmo.png" alt=""></td>
         <td bgcolor="yellow"><div style="text-align: center; color: white">Electric</td>
         <td bgcolor="orange"><div style="text-align: center; color: white">Fighting</td>
-        <td>Pawmi</td>
-        <td>Pawmot</td>
+        <td><div style="text-align: center;">Pawmi</td>
+        <td><div style="text-align: center;">Pawmot</td>
         <td>FighterOrange</td>
         <td>06-12-2021</td>
       </tr>
       <tr>
-        <th>7</th>
+        <th>0923</th>
         <td>Generation 9</td>
-        <td>Pawmot</td>
+        <td><div style="text-align: center;">Pawmot</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/3/32/0923Pawmot.png/70px-0923Pawmot.png" alt=""></td>
         <td bgcolor="yellow"><div style="text-align: center; color: white">Electric</td>
         <td bgcolor="orange"><div style="text-align: center; color: white">Fighting</td>
-        <td>Pawmo</td>
+        <td><div style="text-align: center;">Pawmo</td>
         <td><div style="text-align: center;">-</td></div>
-        <td>FighterOrange</td>
+        <td><div style="text-align: center;">FighterOrange</td>
         <td>06-12-2021</td>
       </tr>
       <tr>
-        <th>8</th>
+        <th>0928</th>
         <td>Generation 9</td>
-        <td>Smoliv</td>
+        <td><div style="text-align: center;">Smoliv</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/e/ea/0928Smoliv.png/70px-0928Smoliv.png" alt=""></td>
         <td bgcolor="green"><div style="text-align: center; color: white">Grass</td>
         <td bgcolor="grey"><div style="text-align: center; color: white">Normal</td>
         <td><div style="text-align: center;">-</td></div>
-        <td>Dolliv</td>
-        <td>PunongStick</td>
+        <td><div style="text-align: center;">Dolliv</td>
+        <td><div style="text-align: center;">PunongStick</td>
         <td>03-18-2009</td>
       </tr>
       <tr>
-        <th>9</th>
+        <th>0929</th>
         <td>Generation 9</td>
-        <td>Dolliv</td>
+        <td><div style="text-align: center;">Dolliv</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/3/37/0929Dolliv.png/70px-0929Dolliv.png" alt=""></td>
         <td bgcolor="green"><div style="text-align: center; color: white">Grass</td>
         <td bgcolor="grey"><div style="text-align: center; color: white">Normal</td>
-        <td>Smoliv</td>
-        <td>Arboliva</td>
-        <td>PunongStick</td>
+        <td><div style="text-align: center;">Smoliv</td>
+        <td><div style="text-align: center;">Arboliva</td>
+        <td><div style="text-align: center;">PunongStick</td>
         <td>03-18-2009</td>
       </tr>
       <tr>
-        <th>10</th>
+        <th>0930</th>
         <td>Generation 9</td>
-        <td>Arboliva</td>
+        <td><div style="text-align: center;">Arboliva</td>
         <td><img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/0930Arboliva.png/70px-0930Arboliva.png" alt=""></td>
         <td bgcolor="green"><div style="text-align: center; color: white">Grass</td>
         <td bgcolor="grey"><div style="text-align: center; color: white">Normal</td>
-        <td>Dolliv</td>
+        <td><div style="text-align: center;">Dolliv</td>
         <td><div style="text-align: center;">-</td></div>
-        <td>PunongStick</td>
+        <td><div style="text-align: center;">PunongStick</td>
         <td>03-18-2009</td>
       </tr>
   </table>
