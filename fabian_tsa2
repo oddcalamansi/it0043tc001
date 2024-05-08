@@ -1,0 +1,172 @@
+<div style="text-align: center;">National Dex: <input type="text" name="Name"></div>
+<br>
+<div style="text-align: center;">
+<input type="radio"> Generation 1
+<input type="radio"> Generation 2
+<input type="radio"> Generation 3
+<input type="radio"> Generation 4
+<input type="radio"> Generation 5
+<input type="radio"> Generation 6
+<input type="radio"> Generation 7
+<input type="radio"> Generation 8
+<input type="radio"> Generation 9
+</div>
+<br>
+<div style="text-align: center;">Pokemon Name: <input type="text" name="name"></div>
+<br>
+<div style="text-align: center;">
+<label for="image-upload">Upload Image:</label>
+<input type="file" id="image-upload" accept="image">
+</div>
+<br>
+<div style="text-align: center;">Type 1: <input type="text" name="Name"> Type 2: <input type="text" name="Name"></div>
+<br>
+<div style="text-align: center;">Evolves From: <input type="text" name="Name"> Evolves to: <input type="text" name="Name"></div>
+<br>
+<div style="text-align: center;">Nickname: <input type="text" name="name"></div>
+<br> 
+<div style="text-align: center;">
+<label for="Birthday">Birthday:</label>
+<input type="date" name="Birthday" id="Birthday"></div>
+<br> 
+    <div style="text-align: center;">
+    <button>Submit</button></div>
+
+
+
+
+    <table border="1" align="center">
+    <tr>
+      <th>National Dex</th>
+      <th>Generation</th>
+      <th>Pokemon Name</th>
+      <th>Image</th>
+      <th>Type 1</th>
+      <th>Type 2</th>
+      <th>Evolves From</th>
+      <th>Evolves To</th>
+      <th>Nickname</th>
+      <th>Birthday</th>
+ 
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Generation 1</td>
+      <td>Me</td>
+      <td><img src="" alt=""></td>
+      <td>Land</td>
+      <td>Water</td>
+      <td>NotHuman</td>
+      <td>Person</td>
+      <td>Wez</td>
+      <td>12-31-1995</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Generation 1</td>
+      <td>Bulbasaur</td>
+      <td><img src="https://archives.bulbagarden.net/media/upload/thumb/f/fb/0001Bulbasaur.png/70px-0001Bulbasaur.png" alt="https://archives.bulbagarden.net/media/upload/thumb/f/fb/0001Bulbasaur.png/70px-0001Bulbasaur.png"></td>
+      <td>Grass</td>
+      <td>Poison</td>
+      <td><div style="text-align: center;">-</td></div>
+      <td>Ivysaur</td>
+      <td>Palaka</td>
+      <td>12-4-2021</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Generation 1</td>
+      <td>Ivysaur</td>
+      <td><img src="https://archives.bulbagarden.net/media/upload/thumb/8/81/0002Ivysaur.png/70px-0002Ivysaur.png" alt=""></td>
+      <td>Grass</td>
+      <td>Poison</td>
+      <td>Bulbasaur</td>
+      <td>Venusaur</td>
+      <td>Palaka</td>
+      <td>12-4-2021</td>
+    </tr>
+    <tr>
+        <th>4</th>
+        <td>Generation 1</td>
+        <td>Venusaur</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/6/6b/0003Venusaur.png/70px-0003Venusaur.png" alt=""></td>
+        <td>Grass</td>
+        <td>Poison</td>
+        <td>Ivysaur</td>
+        <td><div style="text-align: center;">-</td></div>
+        <td>Palaka</td>
+        <td>12-4-2021</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td>Generation 9</td>
+        <td>Meowscarada</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/6/6f/0908Meowscarada.png/70px-0908Meowscarada.png" alt=""></td>
+        <td>Grass</td>
+        <td>Dark</td>
+        <td>Floragato</td>
+        <td><div style="text-align: center;">-</td></div>
+        <td>PusangGala</td>
+        <td>04-21-1898</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td>Generation 9</td>
+        <td>Pawmo</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/b/b5/0922Pawmo.png/70px-0922Pawmo.png" alt=""></td>
+        <td>Electric</td>
+        <td>Fighting</td>
+        <td>Pawmi</td>
+        <td>Pawmot</td>
+        <td>FighterOrange</td>
+        <td>06-12-2021</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td>Generation 9</td>
+        <td>Pawmot</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/3/32/0923Pawmot.png/70px-0923Pawmot.png" alt=""></td>
+        <td>Electric</td>
+        <td>Fighting</td>
+        <td>Pawmo</td>
+        <td><div style="text-align: center;">-</td></div>
+        <td>FighterOrange</td>
+        <td>06-12-2021</td>
+      </tr>
+      <tr>
+        <th>8</th>
+        <td>Generation 9</td>
+        <td>Smoliv</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/e/ea/0928Smoliv.png/70px-0928Smoliv.png" alt=""></td>
+        <td>Grass</td>
+        <td>Normal</td>
+        <td><div style="text-align: center;">-</td></div>
+        <td>Dolliv</td>
+        <td>PunongStick</td>
+        <td>03-18-2009</td>
+      </tr>
+      <tr>
+        <th>9</th>
+        <td>Generation 9</td>
+        <td>Dolliv</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/3/37/0929Dolliv.png/70px-0929Dolliv.png" alt=""></td>
+        <td>Grass</td>
+        <td>Normal</td>
+        <td>Smoliv</td>
+        <td>Arboliva</td>
+        <td>PunongStick</td>
+        <td>03-18-2009</td>
+      </tr>
+      <tr>
+        <th>10</th>
+        <td>Generation 9</td>
+        <td>Arboliva</td>
+        <td><img src="https://archives.bulbagarden.net/media/upload/thumb/a/ab/0930Arboliva.png/70px-0930Arboliva.png" alt=""></td>
+        <td>Grass</td>
+        <td>Normal</td>
+        <td>Dolliv</td>
+        <td><div style="text-align: center;">-</td></div>
+        <td>PunongStick</td>
+        <td>03-18-2009</td>
+      </tr>
+  </table>
