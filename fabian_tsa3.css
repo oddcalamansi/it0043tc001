@@ -19,16 +19,15 @@ body{
   text-align: center;
   font-size: 80px;
   letter-spacing: normal;
+  margin-bottom: 0;
 }
 
 .subheading{
   font-size: xx-large;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 p{
   font-size: xx-small;
 }
-
-
-
-
