@@ -1,0 +1,98 @@
+body{
+    background-image: url("background.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1000px; 
+}
+
+.card{
+    width: 300px;
+    margin: 10px;
+    background-color: pink;
+    text-align: center;
+}
+
+.cardpic{
+    height: 200px;
+    overflow: hidden;
+}
+
+.name{
+    font-size: 30px;
+    margin: 15px;
+}
+
+.type{
+    display: inline;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+
+.dark{
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dragon{
+    background-color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.electric{
+    background-color: #eee600  ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.normal{
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.water{
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fire{
+    background-color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.description{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+}
+
+.button{
+    font-family: cursive;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: fuchsia;
+    color:white;
+}
+
+.button:hover{
+    background-color: purple;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+}
