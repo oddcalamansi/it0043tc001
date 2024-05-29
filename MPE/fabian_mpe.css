@@ -1,0 +1,162 @@
+body {
+    font-family: cursive;
+    background-color: black; 
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url(bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pics {
+    margin: 10px;
+    width: 20%;
+    padding: 20px;
+}
+
+.pics img {
+    width: 100%;
+}
+
+#pokeball{
+    display: none;
+}
+
+h1{
+    display: none;
+}
+
+.types{
+    display: none;
+}
+
+#mankey{
+    background-color: #f4d3a2;
+}
+#meowth{
+    background-color: #eae4c5;
+}
+#mew{
+    background-color: #f4c4b3;
+}
+#pidgey{
+    background-color: #e29c37;
+}
+#pikachu{
+    background-color: #ffd400;
+}
+#squirtle1{
+    background-color: #7fe5d8;
+}
+#snorlax{
+    background-color: #009be8;
+}
+#venonat1{
+    background-color: #7c34c1;
+}
+#psyduck{
+    background-color: #fff800;
+}
+#rattata{
+    background-color: #a962e8;
+}
+#weedle{
+    background-color: #ddc38a;
+}
+#zubat{
+    background-color: #4f74e8;
+}
+
+.fighting{
+    background-color: brown;
+}
+
+.normal{
+    background-color: lightgray;
+}
+
+.psychic{
+    background-color: lightpink;
+}
+
+.flying{
+    background-color: lightblue;
+}
+
+.water{
+    background-color: darkblue;
+}
+
+.bug{
+    background-color: greenyellow;
+}
+
+.poison{
+    background-color: purple;
+}
+
+.electric{
+    background-color: #eee600;
+}
+
+@media (max-width: 700px) {
+    .container {
+        display: flex;
+    }
+    .pics{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .pics img {
+            width: 20%;    
+    }
+    h1 {
+        display: block;
+        align-items: center;
+    }
+    #pokeball{
+        display: block;
+    }
+    .pics:hover {
+        background-image: url('hoverbg.webp');
+        background-size: cover;
+        background-position: center;
+    }
+}
+@media (max-width: 500px) {
+    .container {
+        justify-content: center;
+        align-items: center;
+    }
+    .types{
+        display: block;
+        color: white;
+    }
+
+    .pics{
+        align-items: center;
+        flex-direction: column;
+    }
+    .pics img { 
+            width: 40%;
+    }
+    h1 {
+        display: block;
+        align-items: center;
+    }
+    #pokeball{
+        display: none;
+    }
+    .pics:hover {
+        background-image: url('hoverbg2.jpg');
+        background-position: center;
+        background-repeat: no-repeat;
+        align-items: center;
+    }
+}
